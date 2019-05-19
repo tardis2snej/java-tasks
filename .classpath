@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="queue/src"/>
+	<classpathentry kind="src" path="task12/src"/>
+	<classpathentry kind="src" path="Task5/src"/>
+	<classpathentry kind="src" path="Task8/src"/>
+	<classpathentry kind="src" path="task9/src"/>
+	<classpathentry kind="lib" path="Snej_Lib.jar"/>
+	<classpathentry kind="output" path="Task5/bin"/>
+</classpath>
